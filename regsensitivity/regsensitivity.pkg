@@ -1,5 +1,17 @@
-d 'DEA': Data envelopment analysis
+d 'regsensitivity': Regression sensitivity analysis Use regsensitivity With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f _regsen_breakfront_plot.ado
+f _regsen_display.ado
+f _regsen_idset_plot.ado
+f _regsen_write_scalar_table.ado
+f _regsen_write_table_header.ado
+f _regsen_write_tuples.ado
+f lxhuse.ado
+f lxhuse.sthlp
+f regsen.ado
+f regsen.sthlp
+f regsensitivity.ado
+f regsensitivity.sthlp
+f regsensitivity_bounds.sthlp
+f regsensitivity_breakdown.sthlp
+f regsensitivity_plot.sthlp
