@@ -1,6 +1,8 @@
 # regsensitivity
 Regression sensitivity analysis Use regsensitivity With STATA 18
 
+https://www.youtube.com/watch?v=HmioFmb9msg
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
